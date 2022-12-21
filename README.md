@@ -1,3 +1,3 @@
 <p align="center">
-  <img  onclick="clickthecat();" width="1000" height="300" src="https://github.com/https404/https404/blob/main/cat.png?raw=true">
+  <img src="https://github.com/https404/https404/blob/main/cat.png?raw=true](https://img.shields.io/static/v1?label=HTML&message=4.5/5&color=blue&style=plastic">
 </p>
